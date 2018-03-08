@@ -1,0 +1,35 @@
+{
+  "name": "js-textcase",
+  "version": "1.0.0",
+  "description": "Textcase the keys of an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhsamha/js-textcase.git"
+  },
+  "keywords": [
+    "textcase",
+    "js-textcase",
+    "snake",
+    "underscore",
+    "underscore case",
+    "assign",
+    "extend",
+    "case",
+    "browser",
+    "browserify"
+  ],
+  "author": {
+    "name": "huynhsamha",
+    "email": "huynhsamha@gmail.com",
+    "url": "https://github.com/huynhsamha"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huynhsamha/js-textcase/issues"
+  },
+  "homepage": "https://github.com/huynhsamha/js-textcase#readme"
+}
